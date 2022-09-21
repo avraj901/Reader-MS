@@ -4,10 +4,7 @@ import java.util.ArrayList;
 
 import java.util.List;
 
-
-
 public class Reader {
-
 
 	List<Book> books = new ArrayList<>();
 
@@ -26,8 +23,7 @@ public class Reader {
 
 	public Reader() {
 		super();
-		
+
 	}
-	
-	
+
 }
